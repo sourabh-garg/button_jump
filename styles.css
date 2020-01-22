@@ -1,1 +1,30 @@
 
+.jump_btn{
+  position: absolute;
+  top: 200px;
+  background-color: blue;
+  color: white;
+  padding: 7px 40px;
+  border-radius: 3px;  
+}
+
+.org{
+  left: 200px;
+}
+
+.bottom{
+  top: 300px;
+}
+
+.left{
+  left: 0px;
+}
+
+.right{
+ right: 300px;
+  
+}
+
+.top{
+  top: 0px;
+}
